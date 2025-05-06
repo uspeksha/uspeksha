@@ -55,8 +55,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Davideee&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Davideee&theme=midnight-purple&hide_border=false)<br/>
 
-###### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Davideee&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ---
